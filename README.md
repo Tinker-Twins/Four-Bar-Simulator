@@ -1,2 +1,2 @@
-# Four-Bar-Simulator
-A Simulation System for Four-Bar Mechanism
+# Four-Bar Simulator
+### A Unity3D-Based Simulation System for Four-Bar Mechanism
